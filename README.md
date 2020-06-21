@@ -2,6 +2,9 @@
 Simple HTTP-Cookie Banner
 Edition 1.0 | 25Space.com
 
+# IMPORTANT
+This is an older edition, discover our current new version as fullpage:https://github.com/mdctgroup/cookieapproval
+
 A simple Cookie JS script for your website.
 Please note: This is no legal advice and no checked content!
 The mdct Group assumes no liability.
